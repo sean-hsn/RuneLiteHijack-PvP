@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="hijack-customize-pluginhub">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/arnah/hijack-customize-pluginhub.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

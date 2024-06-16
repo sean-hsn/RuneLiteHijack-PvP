@@ -1,12 +1,12 @@
 [
   {
-    "internalName": "hijack-customize-pluginhub",
-    "hash": "ca9ddd3a14a1b6033eb6a59da6465f5f72d47af351f6ce0a13d3ee40fb5b38ea",
-    "size": 2221,
+    "internalName": "specbar",
+    "hash": "a16d22ecb51ef079682e37013e8271c3be82d2e3e68e85ba000376955f6d23d0",
+    "size": 1632,
     "plugins": [
-      "ca.arnah.runelite.HijackCustomizePlugin"
+      "net.runelite.client.plugins.specbar.SpecBarPlugin"
     ],
-    "displayName": "HiJack Customize PluginHub",
+    "displayName": "specbar",
     "description": "",
     "provider": "arnah"
   }
