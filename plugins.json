@@ -9,5 +9,16 @@
     "displayName": "specbar",
     "description": "",
     "provider": "arnah"
+  },
+  {
+    "internalName": "chimeraexternalmanager",
+    "hash": "e559c5f68a118ae3b5642cf1e866396ef0f8f4de15c6334146953ada1fa67b4b",
+    "size": 284,
+    "plugins": [
+      "com.chimera.chimeraexternalmanager.PluginClassLoader"
+    ],
+    "displayName": "chimeraexternalmanager",
+    "description": "",
+    "provider": "arnah"
   }
 ]
