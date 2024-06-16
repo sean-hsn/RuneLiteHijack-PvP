@@ -8,7 +8,7 @@
     ],
     "displayName": "Specbar",
     "description": "",
-    "provider": "julle"
+    "provider": "arnah"
   },
   {
     "internalName": "chimeraexternalmanager",
@@ -19,6 +19,6 @@
     ],
     "displayName": "chimeraexternalmanager",
     "description": "",
-    "provider": "julle"
+    "provider": "arnah"
   }
 ]
