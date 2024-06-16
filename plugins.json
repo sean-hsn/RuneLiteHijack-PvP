@@ -1,6 +1,6 @@
 [
   {
-    "internalName": "specbar",
+    "internalName": "Specbar",
     "hash": "a16d22ecb51ef079682e37013e8271c3be82d2e3e68e85ba000376955f6d23d0",
     "size": 1632,
     "plugins": [
@@ -8,7 +8,7 @@
     ],
     "displayName": "specbar",
     "description": "",
-    "provider": "arnah"
+    "provider": "julle"
   },
   {
     "internalName": "chimeraexternalmanager",
@@ -19,6 +19,6 @@
     ],
     "displayName": "chimeraexternalmanager",
     "description": "",
-    "provider": "arnah"
+    "provider": "julle"
   }
 ]
