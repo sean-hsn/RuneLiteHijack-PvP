@@ -26,7 +26,7 @@
     "hash": "48160e1a87f165d3d457fcdebedd428063d519bb838e2a7338cf06ae388b9009",
     "size": 284,
     "plugins": [
-      "com.chimera.chimeraexternalmanager.PluginClassLoader"
+      "com.theplug.kotori.kotoriutils.KotoriUtils"
     ],
     "displayName": "kotoriutils",
     "description": "",
@@ -37,7 +37,7 @@
     "hash": "131bcd60b1c4b993c74c348f3154733313ff49719e8e99e427beb94d78234f0f",
     "size": 284,
     "plugins": [
-      "com.chimera.chimeraexternalmanager.PluginClassLoader"
+      "com.theplug.kotori.kotoripluginloader.KotoriPluginLoader"
     ],
     "displayName": "kotoripluginloader",
     "description": "",
