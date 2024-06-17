@@ -23,7 +23,7 @@
   },
   {
     "internalName": "kotoriutils-1.3.18",
-    "hash": "e559c5f68a118ae3b5642cf1e866396ef0f8f4de15c6334146953ada1fa67b4b",
+    "hash": "48160e1a87f165d3d457fcdebedd428063d519bb838e2a7338cf06ae388b9009",
     "size": 284,
     "plugins": [
       "com.chimera.chimeraexternalmanager.PluginClassLoader"
@@ -34,7 +34,7 @@
   },
   {
     "internalName": "kotoripluginloader-3.0.0",
-    "hash": "e559c5f68a118ae3b5642cf1e866396ef0f8f4de15c6334146953ada1fa67b4b",
+    "hash": "131bcd60b1c4b993c74c348f3154733313ff49719e8e99e427beb94d78234f0f",
     "size": 284,
     "plugins": [
       "com.chimera.chimeraexternalmanager.PluginClassLoader"
