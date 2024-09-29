@@ -1,13 +1,13 @@
 [
   {
-    "internalName": "hijack-customize-pluginhub",
+    "internalName": "<html><font color=#6b8af6>[P]</font> Spec Bar</html>",
     "hash": "ca9ddd3a14a1b6033eb6a59da6465f5f72d47af351f6ce0a13d3ee40fb5b38ea",
-    "size": 2221,
+    "size": 2340,
     "plugins": [
-      "ca.arnah.runelite.HijackCustomizePlugin"
+      "com.theplug.kotori.specbar"
     ],
-    "displayName": "HiJack Customize PluginHub",
+    "displayName": "specbar",
     "description": "",
-    "provider": "arnah"
+    "provider": "specbar"
   }
 ]
