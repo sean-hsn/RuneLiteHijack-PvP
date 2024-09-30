@@ -1,27 +1,5 @@
 [
   {
-    "internalName": "specbar",
-    "hash": "a16d22ecb51ef079682e37013e8271c3be82d2e3e68e85ba000376955f6d23d0",
-    "size": 1632,
-    "plugins": [
-      "net.runelite.client.plugins.specbar.SpecBarPlugin"
-    ],
-    "displayName": "Specbar",
-    "description": "",
-    "provider": "arnah"
-  },
-  {
-    "internalName": "chimeraexternalmanager",
-    "hash": "e559c5f68a118ae3b5642cf1e866396ef0f8f4de15c6334146953ada1fa67b4b",
-    "size": 284,
-    "plugins": [
-      "com.chimera.chimeraexternalmanager.PluginClassLoader"
-    ],
-    "displayName": "chimeraexternalmanager",
-    "description": "",
-    "provider": "arnah"
-  },
-  {
     "internalName": "kotoriutils-1.3.18",
     "hash": "48160e1a87f165d3d457fcdebedd428063d519bb838e2a7338cf06ae388b9009",
     "size": 126,
