@@ -15,7 +15,7 @@
     "hash": "a2fd4714ac54e7a6d4de1c9c0600e0b1c266282f3cf6d5f718a9f421cb1bbc5c",
     "size": 6170,
     "plugins": [
-      "com.example.EthanApiPlugin.EthanApiPlugin"
+      "net.runelite.client.externalplugins.ExternalPluginManager"
     ],
     "displayName": "EthanApiPlugin",
     "description": "",
